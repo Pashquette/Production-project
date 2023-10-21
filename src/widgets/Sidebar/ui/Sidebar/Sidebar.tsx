@@ -18,7 +18,6 @@ export const Sidebar = ({ className }: SidebarProps) => {
         setCollapsed((prev) => !prev);
     };
 
-    // test
     return (
         <div
             data-testid="sidebar"
