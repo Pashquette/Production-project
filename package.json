@@ -87,9 +87,6 @@
     "react-router-dom": "^6.2.1"
   },
   "loki": {
-    "overrides": {
-      "chrome-remote-interface": "^0.32.1"
-    },
     "configurations": {
       "chrome.laptop": {
         "target": "chrome.app",
